@@ -1,0 +1,2 @@
+id/wain/catatanpenjualan/BuildConfig.java
+ id.wain.catatanpenjualan.BuildConfig
